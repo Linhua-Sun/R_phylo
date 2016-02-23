@@ -1,0 +1,9 @@
+./R_test_data_ex/RAxML_bootstrap.Cluster5010.fas_out1_rooted.t
+./R_test_data_ex/RAxML_bootstrap.Cluster5020.fas_out1_rooted.t
+./R_test_data_ex/RAxML_bootstrap.Cluster5025.fas_out1_rooted.t
+./R_test_data_ex/RAxML_bootstrap.Cluster5031.fas_out1_rooted.t
+./R_test_data_ex/RAxML_bootstrap.Cluster5050.fas_out1_rooted.t
+./R_test_data_ex/RAxML_bootstrap.Cluster5071.fas_out1_rooted.t
+./R_test_data_ex/RAxML_bootstrap.Cluster5074.fas_out1_rooted.t
+./R_test_data_ex/RAxML_bootstrap.Cluster5076.fas_out1_rooted.t
+./R_test_data_ex/RAxML_bootstrap.Cluster5078.fas_out1_rooted.t
