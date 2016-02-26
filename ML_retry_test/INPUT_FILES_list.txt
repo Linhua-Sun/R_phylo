@@ -1,0 +1,3 @@
+./test_data/RAxML_bootstrap.Cluster5010.fas_out1_rooted.t
+./test_data/RAxML_bootstrap.Cluster5020.fas_out1_rooted.t
+./test_data/RAxML_bootstrap.Cluster5025.fas_out1_rooted.t
